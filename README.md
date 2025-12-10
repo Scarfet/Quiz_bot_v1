@@ -48,7 +48,7 @@ tg_quiz_bot/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/Scarfet/Quiz_bot.git
+git clone https://github.com/Scarfet/Quiz_bot_v1.git
 cd Quiz_bot_v1
 ````
 
