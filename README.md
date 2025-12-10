@@ -143,13 +143,13 @@ python -m bot.main
 ## 🤖 Мой Telegram-бот
 
 * **Имя: QUIZ_learn
-* **Ссылка: [t.me/Q_Qwiz_bot]
+* **Ссылка: https://t.me/Q_Qwiz_bot
 
 ---
 
 ## 🐙 GitHub репозиторий
 
-[https://github.com/Scarfet/Quiz_bot_v1]
+https://github.com/Scarfet/Quiz_bot_v1
 
 ---
 
