@@ -149,7 +149,7 @@ python -m bot.main
 
 ## 🐙 GitHub репозиторий
 
-[https://github.com/](https://github.com/Scarfet/Quiz_bot_v1)
+[https://github.com/Scarfet/Quiz_bot_v1]
 
 ---
 
