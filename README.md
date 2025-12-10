@@ -142,8 +142,8 @@ python -m bot.main
 
 ## 🤖 Мой Telegram-бот
 
-* **Имя:QUIZ_learn
-* **Ссылка:t.me/Q_Qwiz_bot
+* **Имя: QUIZ_learn
+* **Ссылка: [t.me/Q_Qwiz_bot]
 
 ---
 
