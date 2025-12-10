@@ -49,7 +49,7 @@ tg_quiz_bot/
 
 ```bash
 git clone https://github.com/Scarfet/Quiz_bot.git
-cd Quiz_bot
+cd Quiz_bot_v1
 ````
 
 ---
